@@ -501,11 +501,11 @@ footer ul, .copy {
     	display: none;
     }
     .iphone {
-	width: 100%;
-    position: absolute;
-    right: ;
-    top: 250px;
-    display:flex;
+	width: 70%;
+    	position: absolute;
+    	right: ;
+    	top: 250px;
+    	display:flex;
     }
     .desktop {
         display: none
